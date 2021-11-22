@@ -15,7 +15,7 @@ docker-compose up -d
  ```
  - Restart Any of the Container `db/adminer`
  ```
- docker-compose restart db
+ docker-compose restart <db or adminer>
  ```
 
 
